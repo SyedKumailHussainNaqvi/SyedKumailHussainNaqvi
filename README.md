@@ -7,7 +7,7 @@
 📍 Jeonbuk National University, South Korea 🇰🇷
 
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Research_Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Syed-Naqvi-122?ev=hdr_xprf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Syed_Kumail_Hussain_Naqvi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Syed_Kumail_Hussain_Naqvi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://kr.linkedin.com/in/syed-kumail-7b0301182)
 [![Email](https://img.shields.io/badge/Email-JBNU-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedkumailhussainnaqvi@jbnu.ac.kr)
 
 </div>
